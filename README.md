@@ -1,3 +1,2 @@
 # lighthouse
-A repository for lighthouse prep.
-Updated via origin.
+A repository for lighthouse prep kata.
